@@ -1,5 +1,5 @@
-favourite movie: The lord of the ring
-favourite series: Simpsons
-favourite food: meat
-favourite season: summer
-want to visit: New Zealand
+Favourite movie: The lord of the ring
+Favourite series: Simpsons
+Favourite food: meat
+Favourite season: summer
+Want to visit: New Zealand

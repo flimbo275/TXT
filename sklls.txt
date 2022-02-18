@@ -1,0 +1,16 @@
+skill 1: Client-server_model
+skill 2: HTTP_server_requests
+skill 3: JSON_XML_structure
+skill 4: API_Testing_Postman
+skill 5: logs_from_external_server
+skill 6: Dev_Tools_of_web_browsers
+skill 7: VPN
+skill 8: mobile_testing
+skill 9: XCode
+skill 10: Android_Studio
+skill 11: Linux_terminal
+skill 12: SQL
+skill 13: Postgres
+skill 14: Redis
+skill 15: Jmeter
+skill 16: Scrum
