@@ -3,4 +3,3 @@ favourite series: Simpsons
 favourite food: meat
 favourite season: summer
 want to visit: New Zealand
-.

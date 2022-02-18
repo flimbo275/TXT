@@ -2,4 +2,3 @@ Name: Elena
 Age: 31
 pets: 1
 Expected salary: NZD 4000
-.
