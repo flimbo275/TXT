@@ -3,12 +3,12 @@ Category: Gameplay
 Severity: Critical
 Priority: High
 Steps to reproduce:
-                1. Reach_the_second_act
-                2. Go_to_the_Auberdine_lake
-                3. Talk_to_Ricardo
-                4. Take_up_an_axe-type_weapon
-                5. Attack_and_try_to_damage_the_orc
+                1. Reach the second act
+                2. Go to the_Auberdine lake
+                3. Talk to Ricardo
+                4. Take up an axe-type weapon
+                5. Attack and try to damage the orc
 Result: Orc has no damage
-Expected result: Orc_should_be_damaged
+Expected result: Orc should be damaged
 Version: 3.2.4
 Platform: PS5
