@@ -1,4 +1,4 @@
-skill 1: Client-server_model
+skill 1: Client-server model
 skill 2: HTTP server requests
 skill 3: JSON_XML structure
 skill 4: API Testing Postman
